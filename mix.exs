@@ -91,7 +91,7 @@ defmodule Isotope.MixProject do
       {:ex_doc, "~> 0.27", only: :dev, runtime: false},
       {:benchee, "~> 1.0", only: :dev},
       # Other dependencies
-      {:rustler, "~> 0.28.0"}
+      {:rustler, "~> 0.29.0"}
     ]
   end
 end
